@@ -1,0 +1,14 @@
+{
+  "name": "typescript-design-pattern",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^14.14.37",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.4"
+  },
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  }
+}
